@@ -1,12 +1,7 @@
-export default function greet({
-  nome,
-  idade,
-}: {
-  nome: string;
-  idade: number;
-}): string {
-  const nomeEIdade = `Meu nome é: ${nome}, e minha é: ${idade}`;
-  return nomeEIdade;
-}
+// function soma(x: number, y: number) {
+//   return x + y;
+// }
 
-console.log(greet({ nome: 'Diego', idade: 29 }));
+// const soma: (x: number, y: number) => number = (x, y) => x + y;
+
+// console.log(soma(2, 3));
