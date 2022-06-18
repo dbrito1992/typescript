@@ -1,0 +1,1 @@
+{"version":3,"file":"bundle.js","mappings":";;;;;;AAAa;AACb","sources":["webpack://typescript/./src/webpack1/index.ts"],"sourcesContent":["\"use strict\";\r\nconsole.log('Ola Mundo!');\r\n"],"names":[],"sourceRoot":""}
